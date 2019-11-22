@@ -5,9 +5,9 @@
 | 참가자 명단 | Github         | 역할                                              |
 | ----------- | -------------- | ------------------------------------------------- |
 | 최승호      | *@itsmyCareer* | 기획, Mobile Application, AI(**Machine Learing**) |
-| 고정현      | *@joki2002*    | *                                                 |
-| 최하연      | *              | *                                                 |
-| 김난희      | *@kimnanhee*   | *                                                 |
+| 고정현      | *@joki2002*    | Design                                            |
+| 최하연      | *@yeon0926*    | Embedded Device                                   |
+| 김난희      | *@kimnanhee*   | Server                                            |
 
 
 
