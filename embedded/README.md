@@ -4,7 +4,7 @@
 
 # 전개도
 
-![hair_band](C:\Users\user\OneDrive\문서\GitHub\2019-miniSW-Hackathon\embedded\image\hair_band.png)
+![hair_band](.\image\hair_band.png)
 
 위에 빨간색 부분 : 버튼이 들어갈 부분
 
