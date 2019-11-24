@@ -35,9 +35,8 @@
 
 숙면 패턴은**1단계, 2단계, 3단계, 4단계, REM 수면**으로 나뉘며 평균 주기는 **1시간 30분**입니다. 또한 단계가 올라갈수록 **심박수가 낮아지고** 근육이 이완되며, 뇌파가 달라진다는 숙면 패턴중 일부분을 이용하여 제품을 기획하였습니다.
 
-![](.\images\markdown\sleep_cycle1.png)
-
-![](.\images\markdown\sleep_cycle2.jpg)
+![sleep_cycle1](https://user-images.githubusercontent.com/57393031/69495313-01f24b80-0f09-11ea-9c75-0d721e82c1e3.png)
+![sleep_cycle2](https://user-images.githubusercontent.com/57393031/69495314-03bc0f00-0f09-11ea-8ea7-949127d3aabe.jpg)
 
 #### 2. 디바이스(Embedded Device)
 
@@ -48,12 +47,17 @@
   - 전원 버튼을 이용하여 켜고 끌 수 있게 합니다.
   - 페어링 버튼을 눌러 페어링 될 수 있게 합니다.
 
-  ![](.\images\markdown\sleep_cycle3.png)
+  
+  ![sleep_cycle3](https://user-images.githubusercontent.com/57393031/69495318-0c144a00-0f09-11ea-877b-de7df4d21769.png)
+
+
 
   - **xd-58c라는 Pulse 심박 센서**를 이용하여 **천측두 동맥**(*Auriculotemporal Nerve*)을 통해 심박수를 체크할 수 있습니다.
     -  http://shopping.interpark.com/product/productInfo.do?prdNo=5695711317&gclid=EAIaIQobChMIqfrvh_D75QIV0DUrCh0JSAOEEAYYASABEgKNc_D_BwE 
-    - ![](.\images\markdown\auriculotemporal-nerve.png)
-    - ![](.\images\markdown\mandibular-nerve.png)
+    - ![auriculotemporal-nerve](https://user-images.githubusercontent.com/57393031/69495323-1c2c2980-0f09-11ea-9c5e-092ee60a55dd.png)
+    - ![mandibular-nerve](https://user-images.githubusercontent.com/57393031/69495328-2b12dc00-0f09-11ea-982b-bff63e6537a4.png)
+
+
   - 블루투스를 통해 **사용자 어플리케이션**으로 심박수를 전송합니다.
   - **사용자 어플리케이션**은 받은 심박수를 숙면 시간동안 녹화하며, 수면 단계를 측정합니다.
 
