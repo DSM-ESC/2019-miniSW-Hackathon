@@ -1,6 +1,7 @@
 #include<SoftwareSerial.h>
 #define USE_ARDUINO_INTERRUPTS true
 #include <PulseSensorPlayground.h>
+SoftwareSerial btSerial(2,3);
 
 const int PulseWire = 0;
 const int LED13 = 13;
@@ -26,7 +27,7 @@ void loop() {
 
  int myBPM = pulseSensor.getBeatsPerMinute();
 
- btSerial.println(mtBPM);
+ btSerial.println(myBPM);
   delay(20);
 }
 
