@@ -4,6 +4,7 @@ import * as Font from 'expo-font';
 import Login from './Components/login';
 import Register from './Components/register';
 import MainScreen from './Components/MainScreen';
+import Alldata from './Components/Alldata';
 
 import { createAppContainer } from 'react-navigation';
 import { createStackNavigator} from 'react-navigation-stack'
